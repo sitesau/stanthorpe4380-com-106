@@ -1,0 +1,19 @@
+{
+  "wheel_id": 371,
+  "structure": "umbrella",
+  "slug": "stanthorpe4380-com-106",
+  "project": "electricians-stanthorpe-costs-144b6c22ddecf58fae650d3d64c5e9cdc",
+  "parent_t1_ref": "stanthorpe4380-com-152",
+  "node_role": "feeder",
+  "money_target": "stanthorpe4380.com.au",
+  "primary_kw": "electricians stanthorpe costs",
+  "intended_url": "https://aumedia.neocities.org/electricians-stanthorpe-costs-144b6c22ddecf58fae650d3d64c5e9cdc/",
+  "writeback_nonce": "e32697dda041b981",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/stanthorpe4380-com-152/",
+      "anchor": "electricians stanthorpe",
+      "rel": "follow"
+    }
+  ]
+}
